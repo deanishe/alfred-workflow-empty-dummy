@@ -1,4 +1,5 @@
-alfred-workflow-empty-dummy
-===========================
+Test repository for Alfred-Workflow
+===================================
 
-An release-free repo for testing Alfred-Workflow
+A release-free repo for testing [Alfred-Workflow](https://github.com/deanishe/alfred-workflow).
+
